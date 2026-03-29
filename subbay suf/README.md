@@ -1,12 +1,13 @@
 ## Subway Surfers Hand Gesture by Yash
 
 
-A fun and interactive **Hand Gesture Controlled Game** where you can play the classic **Hill Climb Racing** using just your hand gestures. The game uses **Python**, **OpenCV**, **MediaPipe**, and **pynput** to detect hand gestures via webcam and simulate keyboard controls to play the game.
+A fun and interactive **Hand Gesture Controlled Game** where you can play the classic **Subway Surfers** using just your hand gestures. The game uses **Python**, **OpenCV**, **MediaPipe**, and **pynput** to detect hand gestures via webcam and simulate keyboard controls to play the game.
 
 ## Features
 
-- **Accelerator**: Control acceleration with an open hand gesture.
-- **Brake**: Control braking with a closed fist gesture.
+- **Jump**: Control Jump with an open hand gesture.
+- **Roll Down**: Control Rolling with a closed fist gesture.
+- **Right-Left**: Control right-left movement by placing your active hand, right or left, on the screen .
 - **Real-time Hand Detection**: Detects hand gestures in real-time using your webcam.
 - **Python Powered**: Built using Python 3.12 along with **OpenCV** for webcam access, **MediaPipe** for hand tracking, and **pynput** for simulating key presses.
 - **Epic Soundtrack**: Includes the iconic “The Good, the Bad, and the Ugly” theme song for added fun during gameplay.
@@ -27,7 +28,7 @@ Before running this project, ensure you have the following installed:
 
 2. Navigate to the project directory:
    ```bash
-   cd Hill-climb-racing-hand-gesture
+   cd subway-surfers-gesture
 
 3. Run the game:
    ```bash
