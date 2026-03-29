@@ -1,4 +1,4 @@
-## Hill climb racing Hand Gesture 
+## Subway Surfers Hand Gesture by Yash
 
 
 A fun and interactive **Hand Gesture Controlled Game** where you can play the classic **Hill Climb Racing** using just your hand gestures. The game uses **Python**, **OpenCV**, **MediaPipe**, and **pynput** to detect hand gestures via webcam and simulate keyboard controls to play the game.
